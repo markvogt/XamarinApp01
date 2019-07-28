@@ -1,0 +1,12 @@
+C:\Development\github\xamarinapp01\XamarinApp01\XamarinApp01\XamarinApp01\bin\Debug\netstandard2.0\XamarinApp01.deps.json
+C:\Development\github\xamarinapp01\XamarinApp01\XamarinApp01\XamarinApp01\bin\Debug\netstandard2.0\XamarinApp01.dll
+C:\Development\github\xamarinapp01\XamarinApp01\XamarinApp01\XamarinApp01\bin\Debug\netstandard2.0\XamarinApp01.pdb
+C:\Development\github\xamarinapp01\XamarinApp01\XamarinApp01\XamarinApp01\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Development\github\xamarinapp01\XamarinApp01\XamarinApp01\XamarinApp01\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Development\github\xamarinapp01\XamarinApp01\XamarinApp01\XamarinApp01\obj\Debug\netstandard2.0\XamarinApp01.csproj.CoreCompileInputs.cache
+C:\Development\github\xamarinapp01\XamarinApp01\XamarinApp01\XamarinApp01\obj\Debug\netstandard2.0\XamarinApp01.AssemblyInfoInputs.cache
+C:\Development\github\xamarinapp01\XamarinApp01\XamarinApp01\XamarinApp01\obj\Debug\netstandard2.0\XamarinApp01.AssemblyInfo.cs
+C:\Development\github\xamarinapp01\XamarinApp01\XamarinApp01\XamarinApp01\obj\Debug\netstandard2.0\XamarinApp01.dll
+C:\Development\github\xamarinapp01\XamarinApp01\XamarinApp01\XamarinApp01\obj\Debug\netstandard2.0\XamarinApp01.pdb
+C:\Development\github\xamarinapp01\XamarinApp01\XamarinApp01\XamarinApp01\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Development\github\xamarinapp01\XamarinApp01\XamarinApp01\XamarinApp01\obj\Debug\netstandard2.0\XamarinApp01.csprojAssemblyReference.cache
